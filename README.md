@@ -1,4 +1,4 @@
-## [![Andrew Bray's header](https://github.com/Andrew-Bray/Andrew-Bray/Andrew_bray_header.png)]
+## [![Andrew Bray's header](https://github.com/Andrew-Bray/Andrew-Bray/blob/main/Andrew_bray_header.png)]
 ### Hi there 👋
 
 <!--
